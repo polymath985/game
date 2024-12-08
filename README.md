@@ -1,3 +1,5 @@
-# game
-ÕâÊÇÎÒĞ´µÄ´úÂë
-adsdasdadasdasdas
+# è¿™æ˜¯æˆ‘å†™çš„ä»£ç 
+int a;
+int bl
+using namespace std;
+int main
