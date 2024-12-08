@@ -1,3 +1,2 @@
 # game
-这是我写的代码
-adsdasdadasdasdas
+濂界殑鏀跺埌
