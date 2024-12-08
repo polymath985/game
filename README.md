@@ -1,2 +1,3 @@
 # game
-好的收到
+������д�Ĵ���
+adsdasdadasdasdas
